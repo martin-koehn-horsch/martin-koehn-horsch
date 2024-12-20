@@ -1,4 +1,4 @@
-## Hi there, I'm Martin Köhn-Horsch 👋
+## Hi there, I'm martin-koehn-horsch 👋
 
 ### GitHub Stats
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-koehn-horsch&show_icons=true&theme=radical)
